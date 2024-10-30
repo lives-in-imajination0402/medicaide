@@ -1,4 +1,4 @@
-Meddollinna - Medical AI Assistant
+MedicAide - Medical AI Assistant
 
 Introduction
 
