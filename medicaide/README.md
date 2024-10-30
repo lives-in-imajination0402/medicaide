@@ -2,7 +2,7 @@ MedicAide - Medical AI Assistant
 
 Introduction
 
-MedicAide is a cutting-edge medical AI assistant designed to support medical students, doctors, and patients. It is the first large language model (LLM) launched in the medical field in India. Meddollinna provides answers to theoretical doubts, diagnosis, and treatment plans for various situations, and guides individuals to the right medical services.
+MedicAide is a cutting-edge medical AI assistant designed to support medical students, doctors, and patients. MedicAide provides answers to theoretical doubts, diagnosis, and treatment plans for various situations, and guides individuals to the right medical services.
 
 Setup and Installation
 
@@ -33,7 +33,7 @@ Installation Steps
     
 
 4. Access the Application
-    Once the application is running, you will get a Flask link in the terminal output. Navigate to that link using your web browser to access the Meddollinna interface.
+    Once the application is running, you will get a Flask link in the terminal output. Navigate to that link using your web browser to access the MedicAide interface.
 
 Usage
 - Medical Students: Get answers to your theory-related questions.
