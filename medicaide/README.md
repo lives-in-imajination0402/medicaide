@@ -2,7 +2,7 @@ MedicAide - Medical AI Assistant
 
 Introduction
 
-Meddollinna is a cutting-edge medical AI assistant designed to support medical students, doctors, and patients. It is the first large language model (LLM) launched in the medical field in India. Meddollinna provides answers to theoretical doubts, diagnosis, and treatment plans for various situations, and guides individuals to the right medical services.
+MedicAide is a cutting-edge medical AI assistant designed to support medical students, doctors, and patients. It is the first large language model (LLM) launched in the medical field in India. Meddollinna provides answers to theoretical doubts, diagnosis, and treatment plans for various situations, and guides individuals to the right medical services.
 
 Setup and Installation
 
